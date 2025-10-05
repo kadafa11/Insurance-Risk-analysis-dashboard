@@ -4,8 +4,6 @@
 This project presents an **interactive Power BI dashboard** for analyzing **insurance risk and claims data**.  
 It provides valuable insights into claim patterns, customer demographics, vehicle characteristics, and regional coverage.
 
----
-
 📊 Dashboard Overview
 
 🧠 Key Insights
@@ -27,8 +25,7 @@ It provides valuable insights into claim patterns, customer demographics, vehicl
 
 - **Power BI** – Data visualization and dashboard design  
 - **Excel / CSV** – Data cleaning and preparation  
-- **DAX** – Measures and calculated columns for KPIs  
-- **Canva** (optional) – For visual elements and icons  
+- **DAX** – Measures and calculated columns for KPIs    
 
  🎯 Objectives
 
@@ -36,6 +33,3 @@ It provides valuable insights into claim patterns, customer demographics, vehicl
 - To analyze **risk exposure** by region, usage type, and education level  
 - To support **data-driven decision-making** for insurance policy design and pricing  
 
-
-├── dataset.csv                       # Source data (if included)
-└── README.md                         # Project documentation
