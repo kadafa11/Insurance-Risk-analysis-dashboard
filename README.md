@@ -6,20 +6,16 @@ It provides valuable insights into claim patterns, customer demographics, vehicl
 
 ---
 
-## 📊 Dashboard Overview
+📊 Dashboard Overview
 
-![Insurance Risk & Claims Analysis](./insurance%20&%20risk%20analysis.png)
-
----
-
-## 🧠 Key Insights
+🧠 Key Insights
 
 - **Total Policies:** 37,542  
 - **Total Claim Amount:** $187.8M  
 - **Average Claim Frequency:** 0.5  
 - **Average Claim Amount:** $5,000  
 
-### Breakdown of Claims:
+ Breakdown of Claims:
 - **By Car Use:** Private vehicles account for the majority of claims ($150.4M), compared to commercial use ($37.4M).  
 - **By Coverage Zone:** Claims are evenly distributed across Urban, Suburban, and Rural zones.  
 - **By Age Group:** The 36–45 and 46–55 age groups recorded the highest claim amounts.  
@@ -27,18 +23,14 @@ It provides valuable insights into claim patterns, customer demographics, vehicl
 - **By Year:** There’s a gradual increase in claims from 2000 to 2019 before a slight dip in 2020.  
 - **By Education:** Bachelor’s and Master’s degree holders dominate the total claim distribution.
 
----
-
-## 🧰 Tools & Technologies Used
+ 🧰 Tools & Technologies Used
 
 - **Power BI** – Data visualization and dashboard design  
 - **Excel / CSV** – Data cleaning and preparation  
 - **DAX** – Measures and calculated columns for KPIs  
 - **Canva** (optional) – For visual elements and icons  
 
----
-
-## 🎯 Objectives
+ 🎯 Objectives
 
 - To identify **claim patterns** across different demographics and vehicle characteristics  
 - To analyze **risk exposure** by region, usage type, and education level  
